@@ -19,6 +19,5 @@ Scheduled script that import FX Rates from https://www.ecb.europa.eu/stats/eurof
 
 
 ## Screenshots
-
 ![App Screenshot](src/FileCabinet/SuiteScripts/NetSuite%20European%20Central%20Bank%20FX%20Rates/screenshots/screenshot1.png)
 ![App Screenshot](src/FileCabinet/SuiteScripts/NetSuite%20European%20Central%20Bank%20FX%20Rates/screenshots/screenshot2.png)
